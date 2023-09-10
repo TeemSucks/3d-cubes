@@ -1,2 +1,2 @@
-# 3d-cubes
-idk
+# 3d cubes
+fun with cubes :D
